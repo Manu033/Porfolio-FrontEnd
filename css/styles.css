@@ -1,0 +1,55 @@
+.contenedor1{
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+h1{
+    margin-top: -10px;
+}
+
+.img-referecias{
+    float: rigth;
+}
+.main-banner{
+    width: 100%;
+}
+.main-banner-container{
+width: 100%;
+}
+.img-main-banner{
+background: url('./../imagenes/fondo 4-recortado.png');
+background-position: center;
+width: 96%;
+height: 450px;
+position: absolute;
+}
+.fotoperfil{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    bottom: -50px;
+}
+.second-div{
+    margin-top: 460px;
+}
+.img-navbar{
+    
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+
+}
+.col.img-referecias{}
+    
+.div-descripcion{
+    margin-top: -40px;
+}
+.lapiz_editar{
+    position: center;
+    float: right;
+    margin-top: 10px;
+    
+}
