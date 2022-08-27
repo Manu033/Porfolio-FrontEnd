@@ -51,5 +51,37 @@ position: absolute;
     position: center;
     float: right;
     margin-top: 10px;
+    margin-left: 10px;
     
+}
+.log-globant{
+    position: absolute;
+    
+}
+.descrip-text{
+
+    margin-left: 110px;
+}
+.text-grey{
+    color: #909090;
+}
+.text-grey-fecha{
+    color: #909090;
+    font-size: small;
+}
+.progress{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.logos_corridos{
+    margin-left: 250px;
+}
+.descrip-text-2{
+
+    margin-left: 70px;
+}
+.descrip_proyect{
+    margin-left: auto;
+    margin-right: auto;
 }
